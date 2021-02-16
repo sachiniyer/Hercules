@@ -1,3 +1,6 @@
+/* Sachin Iyer */
+/* I should have used debouncing, but I have not yet.  */
+
 #include <Audio.h>
 #include <Wire.h>
 #include <SPI.h>
